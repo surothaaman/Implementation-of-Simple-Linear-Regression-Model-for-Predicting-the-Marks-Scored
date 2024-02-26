@@ -56,9 +56,9 @@ dataset.tail()                               #display last 5 rows
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](./images/Op3.png)
+![image](https://github.com/surothaaman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133313653/646cf9ee-63c7-4f3d-9bf2-64a0f0cb135c)
+![image](https://github.com/surothaaman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133313653/aed3e3f0-76a7-4e02-81a9-74161bff0009)
 
-![simple linear regression model for predicting the marks scored](./images/Op4.png)
 
 
 ## Result:
